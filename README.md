@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react, node and express**
+- 💬 Ask me about **React, Node and Express**
 
-- 📫 How to reach me **Abdulahad784766@gmail.com**
+- 📫 How to reach me **abdulahad784766@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny 😂**
 

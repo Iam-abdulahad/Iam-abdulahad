@@ -5,134 +5,169 @@
   MongoDB Developer, JWT Authentication, Role-Based Access Control,
   RESTful API Developer, Firebase Developer, Software Engineer Rajshahi,
   Software Engineer Bangladesh, JavaScript Developer Portfolio
+
+  Palette (works in light + dark mode): sunset gradient #FF512F -> #DD2476, neutral text
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Ahad%20Ali&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20·%20Rajshahi,%20Bangladesh&descAlignY=58&descSize=18" alt="Ahad Ali banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hey%2C%20I'm%20Ahad%20%F0%9F%91%8B&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Rajshahi%2C%20Bangladesh&descAlignY=60&descSize=20" alt="Ahad Ali banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F5AF0&center=true&vCenter=true&width=560&lines=Building+secure%2C+role-based+web+apps;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;RESTful+APIs+%7C+JWT+%7C+OAuth+%7C+RBAC;Open+to+entry-level+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1300&color=DD2476&center=true&vCenter=true&width=620&height=40&lines=Building+secure%2C+role-based+web+apps;React+%C2%B7+Node+%C2%B7+Express+%C2%B7+MongoDB;REST+APIs+%C2%B7+JWT+%C2%B7+OAuth+%C2%B7+RBAC;Open+to+entry-level+opportunities" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<a href="mailto:md.ahad6619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/iam-abdulahad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://ahad-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/21478679/md-ahad-ali"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20Work-2CB67D?style=flat-square" />
+<a href="mailto:md.ahad6619@gmail.com"><img src="https://img.shields.io/badge/Email-DD2476?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/iam-abdulahad"><img src="https://img.shields.io/badge/LinkedIn-DD2476?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://ahad-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-DD2476?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://stackoverflow.com/users/21478679/md-ahad-ali"><img src="https://img.shields.io/badge/Stack%20Overflow-DD2476?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-## About Me
-
-I'm a self-driven **MERN stack developer** based in Rajshahi, Bangladesh, focused on building secure, role-based web applications and interactive dashboards. I'm currently completing a **BA at National University, Bangladesh**, and spend most of my free time deepening my React.js and system-design skills.
-
-- 🛡️ I enjoy solving problems around **RESTful APIs, MVC architecture, and modern authentication** (JWT, OAuth, RBAC)
-- 🌱 Currently sharpening my **React.js** and scalable frontend architecture skills
-- 🤝 Open to **open-source collaboration** and **entry-level engineering roles**
-- 📫 Reach me at **md.ahad6619@gmail.com**
-- ⚡ Fun fact: I think I'm funny — my code reviews say otherwise
-
-<br/>
-
-## Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,postman,vercel,netlify&theme=dark" alt="Tech stack icons" />
-</p>
-
-**Also working with:** Mongoose · JWT · Google OAuth · RBAC · MVC Pattern · RESTful API Design · Render
-
-<br/>
-
-## Featured Projects
-
-### 🌤️ [SuMo Weather](https://strong-basbousa-e70b9a.netlify.app/)
-**Real-time weather dashboard** · `React` `Open-Meteo API` `Geolocation API`
-
-High-performance weather engine using the Open-Meteo API and Geolocation API for instant local data retrieval. UI updates dynamically based on live coordinates for a seamless experience across devices.
-
-[Live Demo](https://strong-basbousa-e70b9a.netlify.app/) · [Source Code](https://github.com/Iam-abdulahad/SumuWeather)
-
----
-
-### 🛒 [SumonMoto Parts](https://sumonmoto-parts.web.app/)
-**Industrial e-commerce & management platform** · `MERN` `RBAC` `Firebase`
-
-Admin dashboard with role-based access control to manage users, products, and order lifecycles. Real-time review and profiling system lets users track orders and manage personal data securely via Firebase. Backend built with Express.js and MongoDB handles concurrent inventory updates.
-
-[Live Demo](https://sumonmoto-parts.web.app/) · [Source Code](https://github.com/Iam-abdulahad/sumonmoto-parts)
-
----
-
-### 🗺️ [Local Legends](https://your-local-legends.web.app/)
-**Social geospatial storytelling platform** · `Leaflet.js` `Firestore` `Google OAuth` `Framer Motion`
-
-Interactive, location-based storytelling platform using Leaflet.js with marker clustering for optimized data visualization. Secure Google OAuth and Firestore integration power dynamic story management and real-time user reactions, plus reverse geocoding, tag filtering, and smooth page transitions.
-
-[Live Demo](https://your-local-legends.web.app/) · [Source Code](https://github.com/Iam-abdulahad/Local_Legends)
-
----
-
-<div align="center">
-
-**More projects coming soon 🚧** — currently deepening my React.js and system-design skills to ship the next one.
-
-[![See all repos](https://img.shields.io/badge/See%20all%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iam-abdulahad?tab=repositories)
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2EA043?style=flat-square" alt="Open to Work" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Rajshahi%2C%20Bangladesh-FF512F?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20BA%20%E2%80%A2%20National%20University-DD2476?style=flat-square" alt="Education" />
 
 </div>
 
 <br/>
 
-## Certifications
+## ✨ Who Am I?
 
-- 🎓 Master Git & GitHub — Udemy (2025)
-- 🎓 Master HTML & CSS — Udemy (2025)
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a self-driven **MERN stack developer** who loves building **secure, role-based web applications** and interactive dashboards.
+
+I enjoy solving problems around **RESTful APIs, MVC architecture and modern authentication** (JWT, OAuth, RBAC), and I spend most of my free time deepening my React.js and system-design skills.
+
+> 😅 *Fun fact: I think I'm funny — my code reviews say otherwise.*
+
+</td>
+<td width="40%" valign="top">
+
+🔭 **Working on:** scalable React architecture<br/>
+🌱 **Learning:** system design<br/>
+🤝 **Open to:** open-source collaboration<br/>
+💼 **Looking for:** entry-level engineering roles<br/>
+📫 **Reach me:** md.ahad6619@gmail.com<br/>
+🗣️ **Speaks:** Bengali · English · Hindi
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## GitHub Stats
+## 🧰 Skills & Expertise
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iam-abdulahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahad Ali's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-abdulahad&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="40%" />
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+**🎨 Frontend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" alt="Frontend" /><br/><br/>
+<sub>React.js · Next.js · Tailwind CSS · Framer Motion · Responsive UI · Leaflet.js</sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+**⚙️ Backend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" alt="Backend" /><br/><br/>
+<sub>Node.js · Express.js · RESTful APIs · MVC Architecture · Concurrent inventory handling</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+**🗄️ Database & Auth**<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=6" alt="Database" /><br/><br/>
+<sub>MongoDB · Mongoose · Firestore · Firebase Auth · JWT · Google OAuth · RBAC</sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+**🚀 Tools & Deployment**<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=6" alt="Tools" /><br/><br/>
+<sub>Git · GitHub · Postman · Vercel · Netlify · Firebase Hosting · Render</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-abdulahad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+### 💼 What I Can Build For You
+
+| 🌐 Full-stack web apps | 🖥️ Frontend development | 🔌 Backend APIs | 🧩 MERN stack solutions |
+|:---:|:---:|:---:|:---:|
+| End-to-end apps, from UI to database | Fast, responsive, polished interfaces | Secure REST APIs with JWT and RBAC | Admin dashboards and e-commerce platforms |
+
+<br/>
+
+### 🧠 Core Concepts
+
+![REST](https://img.shields.io/badge/RESTful%20API%20Design-DD2476?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-DD2476?style=flat-square)
+![Auth](https://img.shields.io/badge/JWT%20%26%20OAuth-DD2476?style=flat-square)
+![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-DD2476?style=flat-square)
+![Geo](https://img.shields.io/badge/Geolocation%20%26%20Maps-DD2476?style=flat-square)
+![Realtime](https://img.shields.io/badge/Real--time%20Data-DD2476?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-DD2476?style=flat-square)
+
+</div>
+
+<br/>
+
+## 🎓 Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">🏅 <b>Master Git &amp; GitHub</b><br/><sub>Udemy · 2025</sub></td>
+<td align="center" width="50%">🏅 <b>Master HTML &amp; CSS</b><br/><sub>Udemy · 2025</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Snapshot
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iam-abdulahad&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=DD2476&icon_color=FF512F&text_color=8B949E&ring_color=DD2476" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-abdulahad&layout=compact&hide_border=true&bg_color=00000000&title_color=DD2476&text_color=8B949E" alt="Top Languages" width="40%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-abdulahad&hide_border=true&background=00000000&ring=DD2476&fire=FF512F&currStreakNum=8B949E&currStreakLabel=DD2476&sideNums=8B949E&sideLabels=DD2476&dates=8B949E" alt="GitHub Streak" width="60%" />
 
 </div>
 
 <details>
-<summary><b>📊 Activity graph & trophies</b></summary>
+<summary><b>🏆 Activity graph &amp; trophies</b></summary>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-abdulahad&theme=tokyonight&hide_border=true" alt="Activity Graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-abdulahad&bg_color=00000000&color=DD2476&line=FF512F&point=DD2476&area=true&area_color=FF512F&hide_border=true" alt="Activity Graph" width="90%" />
 <br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=iam-abdulahad&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=iam-abdulahad&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 </details>
 
 <br/>
 
-## Languages I Speak
-
-Bengali (Native) · English (Professional working proficiency) · Hindi (Conversational)
-
-<br/>
-
 <div align="center">
 
-### Thanks for stopping by — feel free to explore my repos and connect!
+### 💬 Thanks for stopping by — let's build something great together!
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=44&duration=3500&pause=3000&color=DD2476&center=true&vCenter=true&width=360&height=70&lines=%E2%80%94+Ahad+Ali" alt="Signature" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=footer&reversal=true" width="100%" alt="footer" />
 
 </div>
